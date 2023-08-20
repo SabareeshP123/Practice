@@ -1,0 +1,23 @@
+.flex{
+    width:50%;
+    text-align: center;
+    border:3px solid lightgray;
+    flex-wrap: wrap;
+    padding: 24px;
+    margin:100px auto;
+}
+.box{
+    width:150px;
+}
+.bb{
+    display: flex;
+    gap: 9px;
+    justify-content: center;
+}
+button{
+    cursor: pointer;
+    margin-top: 12px;
+} 
+body{
+    width : 100%;
+}
