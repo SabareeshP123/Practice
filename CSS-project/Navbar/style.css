@@ -1,0 +1,24 @@
+li{
+    background-color: black;
+    color: white;
+    display: inline;
+    margin-right: 20px;
+}
+ul{
+    background-color: black;
+    padding: 15px;
+    display: inline;
+    margin-left: 75%;
+}
+h3{
+    color: white;
+    display: inline;
+}
+div{
+    background-color: black;
+    border: 2px solid white;
+    padding: 15px;
+}
+div ul{
+    text-align: right;
+}
